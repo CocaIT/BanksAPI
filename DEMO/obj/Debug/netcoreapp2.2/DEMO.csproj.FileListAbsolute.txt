@@ -1,0 +1,28 @@
+D:\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.deps.json
+D:\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.runtimeconfig.json
+D:\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.runtimeconfig.dev.json
+D:\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.dll
+D:\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.pdb
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.csprojAssemblyReference.cache
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.csproj.CoreCompileInputs.cache
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.RazorAssemblyInfo.cache
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.RazorAssemblyInfo.cs
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.AssemblyInfoInputs.cache
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.AssemblyInfo.cs
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.RazorTargetAssemblyInfo.cache
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.dll
+D:\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.pdb
+C:\Users\Tran Thu Thuy\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.deps.json
+C:\Users\Tran Thu Thuy\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.runtimeconfig.json
+C:\Users\Tran Thu Thuy\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.runtimeconfig.dev.json
+C:\Users\Tran Thu Thuy\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.dll
+C:\Users\Tran Thu Thuy\DEMO\DEMO\bin\Debug\netcoreapp2.2\DEMO.pdb
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.csprojAssemblyReference.cache
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.RazorAssemblyInfo.cache
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.RazorAssemblyInfo.cs
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.AssemblyInfoInputs.cache
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.AssemblyInfo.cs
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.RazorTargetAssemblyInfo.cache
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.dll
+C:\Users\Tran Thu Thuy\DEMO\DEMO\obj\Debug\netcoreapp2.2\DEMO.pdb
